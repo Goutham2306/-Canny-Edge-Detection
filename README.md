@@ -1,7 +1,7 @@
 # -Canny-Edge-Detection
 # i)Implementation of the Canny edge detection algorithm on a sample image to obtain the edges.
-# Developed By : Arikatla Hari Veera Prasad
-# Register Number : 212223240014
+# Developed By : GOUTHAM.K
+# Register Number : 212223110019
 # Code :
 ```
 import cv2
